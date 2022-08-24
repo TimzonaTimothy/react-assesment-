@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "My Crypto Price Checker",
+  "description": "Assessment",
+  "version": "0.0.1",
+
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "Open the popup"
+  },
+  "icons": {
+    "16": "logo.svg",
+    "48": "logo.svg",
+    "128": "logo.svg"
+  },
+  "permissions": [
+  ]
+}
