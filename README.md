@@ -1,4 +1,8 @@
-##Installation 
+# Coin Market Tracker App Chrome Extension
+
+This React application is a simple coin market tracker that allows users to search for cryptocurrencies and view their current prices, market capitalization, and 24-hour price change percentage. It fetches data from the CoinGecko API and displays the information in a user-friendly manner.
+
+## Installation 
 
 To install all modules 
 ```bash
